@@ -1,4 +1,4 @@
-# envr4997_senior_project
+# Tempo Tropomi NO2 Analysis
 
 **ENVR4997 Senior Thesis:** Comparing TEMPO and TROPOMI to assess their viability for differentiating local vs regional NO₂ pollution emissions
 
